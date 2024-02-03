@@ -30,12 +30,10 @@ These instructions will help you set up the project on your local machine.
    ```
    Follow the prompts to enter the project name.
 
-4. **Write your codes and test codes:**
+4. **Write your scripts and tests:**
+   ```bash
+   Create your js files in src directory and your tests in __tests__ directory
    ```
-   npm run test
-   ```
-   This will execute the sample Jest test.
-
 
 5. **Run the tests:**
    ```
