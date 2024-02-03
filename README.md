@@ -32,7 +32,7 @@ These instructions will help you set up the project on your local machine.
 
 4. **Write your scripts and tests:**
    
-   Create your js files in src directory and your tests in __tests__ directory
+   Create your js files in src directory and your tests in \_\_tests\_\_ directory
    
 
 5. **Run the tests:**
@@ -44,7 +44,7 @@ These instructions will help you set up the project on your local machine.
 ## Project Structure
 
 - **src/:** Place your source code files here.
-- **__tests__/main.test.js:** Jest test file.
+- **\_\_tests__/main.test.js:** Jest test file.
 
 ## Author
 
