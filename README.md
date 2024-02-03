@@ -1,0 +1,1 @@
+# batch_script_for_vanilla_js_jest_ecma_modules
